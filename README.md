@@ -14,7 +14,7 @@ Responsive design.
 ## How to use
 To use this application, simply go to the following link: 
 
-##Installation
+## Installation
 
 To install and run the application locally, follow these steps:
 1. Clone the repository
