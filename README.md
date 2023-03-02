@@ -1,3 +1,29 @@
+# Apna-Cart
+
+- Apna-Cart is a CRED TO-DO list application that is built using HTML, CSS, and Javascript.
+
+## Features
+
+Simple and intuitive user interface.
+Create and manage to-do lists.
+Add new items to the list.
+Check off completed items.
+Delete completed items.
+Responsive design.
+
+## How to use
+To use this application, simply go to the following link: 
+
+##Installation
+
+To install and run the application locally, follow these steps:
+1. Clone the repository
+2. Open the `index.html` file in your browser.
+
+## Contributions
+
+- Contributions to this project are welcome. To contribute, simply fork the repository and submit a pull request.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
